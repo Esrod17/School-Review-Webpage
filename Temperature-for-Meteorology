@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Temperature</title>
+  </head>
+  <body>
+    <h1>Temperature</h1>
+    <div id="definition">
+      <h3>What is it?</h3>
+      <p>Temperature in very simple terms is: <em>Measure of the warmth or coldness of an object or substance.</em><br/> In some ways it dictates how much energy the air has within its own molecules. The device used to measure it is called a <strong>Thermometer</strong> and there are multiple units in which it is expressed, the two most common are called Fahrenheit (°F) and Celsius (°C).</p>
+      <img src="http://www.wecravecoffee.com/wp-content/uploads/2016/08/Thermometer-e1472122528726.jpg" alt="thermometer clipart" width="40%" height="30%" />
+    </div>
+   <div id="temperature change source">
+      <h3>How does air temperature even change?</h3>  
+      <p>The reasons air temperature changes are many but here are a couple. Earth’s surface is a major source of heat for the troposphere, although nearly all of that heat comes from the Sun. Rock, soil, and water on Earth absorb the Sun’s light and radiate or "bounce" it back into the atmosphere as heat. The temperature is also higher near the surface because of the greater density of gases.</p>
+    </div>
+    <div id="more info">
+      <h3>How does it affect Weather?</h3>  
+      <p>The temperature of the air in a particular location will tell you some of its behaviour. The most basic thing to understand is that <strong>warm air wants to rise</strong> while <strong>cold air wants to sink</strong>, this process is called <strong>Convection</strong>. <br /><br />This is easily seen when someone is boiling water in the kitchen and see the hot vapor rising. On the other side, when someone opens the freezer, if the conditions are correct you can see the cold air "clouds" fall towards the ground like a cascading waterfall. The picture below will show the process that air passes through while it's temperature changes.</p>
+      <img src="https://sites.google.com/a/bonita.k12.ca.us/chapter-5-the-water-cycle/_/rsrc/1449158295460/home/diagrams/Ch%205%20-%20Convection%20Current.png" alt="convection cycle" width="75%" height="40%" />
+    </div>
+      <h3>Takeaways for this section:</h3>
+      <ul>
+        <li>Temperature measures energy in an object or substance</li>
+        <li>Hot air wants to rise</li>
+        <li>cold air wants to sink</li>
+        <li>The Sun is the biggest source of thermal energy to our planet, but not the only one</li>
+      </ul>
+  </body>
+</html>
