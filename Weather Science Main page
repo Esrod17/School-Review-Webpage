@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Weather Science</title>
+  </head>
+  <body>
+    <h1>What is Weather?</h1>
+    <div id="Introduction">
+      <h2>Introduction</h2>
+      <p>Weather is a word people use daily as you can hear in the news, conversations or just in your thoughts before going out to play. I even have a strong feeling that checking the weather is one of the first things you do every morning, specially during winter to see if it's snowing so you can finally have a snowball fight! </p>
+      <p>Have you even thought what <em>Weather</em> really means? I believe that for any respected scientist, it's incredibly important to know the definition of what you want to study in order to better understand it.<br /><br />According to Oxford dictionary, <a href="https://en.oxforddictionaries.com/definition/weather"><strong>Weather</strong></a> is:<br /><br /> The state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, rain, etc. </p>
+    </div>
+    <div id="Explanation">
+      <h3>Explanation</h3>  
+      <p>Now that we know the definition, lets break it down into two parts to fully understand it shall we.<br /><br /> First part: The <em>'state of the atmosphere'</em> at a particular place and time. This means is that weather is the <strong>description</strong> (a synonym for 'state') of the atmosphere's behaviour in some place and some time.<br /><br /> Second part: <em>'as regards heat, cloudiness, dryness, sunshine, wind, rain, etc.'</em> are <strong>properties</strong> that describe the 'behaviour of the atmosphere' or <em>Weather</em>. According to National Geographic Society there are 6 main properties that describe the weather and they are listed below, you can click on any one of these to explore them further!</p>
+    </div>
+      <h3>Weather Properties</h3>
+      <ul>
+        <li><a>Temperature</a></li>
+        <li><a>Atmospheric Pressure</a></li>
+        <li><a>Wind</a></li>
+        <li><a>Humidity</a></li>
+        <li><a>Precipitation</a></li>
+        <li><a>Cloudiness</a></li>
+      </ul>
+  </body>
+</html>
